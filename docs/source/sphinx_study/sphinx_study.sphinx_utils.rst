@@ -4,6 +4,14 @@ sphinx\_study.sphinx\_utils package
 Submodules
 ----------
 
+sphinx\_study.sphinx\_utils.add module
+--------------------------------------
+
+.. automodule:: sphinx_study.sphinx_utils.add
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
 sphinx\_study.sphinx\_utils.app\_func module
 --------------------------------------------
 
