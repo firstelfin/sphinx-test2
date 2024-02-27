@@ -1,10 +1,15 @@
-sphinx\_study.sphinx\_utils package
+sphinx\_study.sphinx\_utils
 ===================================
 
-Submodules
-----------
 
-sphinx\_study.sphinx\_utils.add module
+.. toctree::
+   :maxdepth: 4
+
+   sphinx_study.sphinx_utils.repo_dir
+
+
+
+sphinx\_study.sphinx\_utils.add
 --------------------------------------
 
 .. automodule:: sphinx_study.sphinx_utils.add
@@ -12,7 +17,7 @@ sphinx\_study.sphinx\_utils.add module
    :undoc-members:
    :show-inheritance:
 
-sphinx\_study.sphinx\_utils.app\_func module
+sphinx\_study.sphinx\_utils.app\_func
 --------------------------------------------
 
 .. automodule:: sphinx_study.sphinx_utils.app_func
