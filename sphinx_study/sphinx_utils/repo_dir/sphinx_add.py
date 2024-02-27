@@ -8,6 +8,14 @@ from pydantic import BaseModel
 from typing import Union, List, Dict, Optional
 
 
+def suppress_test(a: int):
+    """_summary_
+
+    :param int a: _description_
+    """
+    return a
+
+
 class SuppressParam(BaseModel):
     """
 
