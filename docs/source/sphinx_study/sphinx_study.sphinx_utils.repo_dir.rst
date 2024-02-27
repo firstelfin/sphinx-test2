@@ -1,8 +1,10 @@
-sphinx\_study.sphinx\_utils.repo\_dir
+sphinx\_study.sphinx\_utils.repo\_dir package
 =============================================
 
+Submodules
+----------
 
-sphinx\_study.sphinx\_utils.repo\_dir.sphinx\_add
+sphinx\_study.sphinx\_utils.repo\_dir.sphinx\_add module
 --------------------------------------------------------
 
 .. automodule:: sphinx_study.sphinx_utils.repo_dir.sphinx_add
